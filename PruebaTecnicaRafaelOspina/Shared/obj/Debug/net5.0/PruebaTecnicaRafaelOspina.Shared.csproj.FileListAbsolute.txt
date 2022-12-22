@@ -1,0 +1,12 @@
+C:\Users\darkz\source\repos\PruebaTecnicaRafaelOspina\PruebaTecnicaRafaelOspina\Shared\bin\Debug\net5.0\PruebaTecnicaRafaelOspina.Shared.deps.json
+C:\Users\darkz\source\repos\PruebaTecnicaRafaelOspina\PruebaTecnicaRafaelOspina\Shared\bin\Debug\net5.0\PruebaTecnicaRafaelOspina.Shared.dll
+C:\Users\darkz\source\repos\PruebaTecnicaRafaelOspina\PruebaTecnicaRafaelOspina\Shared\bin\Debug\net5.0\ref\PruebaTecnicaRafaelOspina.Shared.dll
+C:\Users\darkz\source\repos\PruebaTecnicaRafaelOspina\PruebaTecnicaRafaelOspina\Shared\bin\Debug\net5.0\PruebaTecnicaRafaelOspina.Shared.pdb
+C:\Users\darkz\source\repos\PruebaTecnicaRafaelOspina\PruebaTecnicaRafaelOspina\Shared\obj\Debug\net5.0\PruebaTecnicaRafaelOspina.Shared.csproj.AssemblyReference.cache
+C:\Users\darkz\source\repos\PruebaTecnicaRafaelOspina\PruebaTecnicaRafaelOspina\Shared\obj\Debug\net5.0\PruebaTecnicaRafaelOspina.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darkz\source\repos\PruebaTecnicaRafaelOspina\PruebaTecnicaRafaelOspina\Shared\obj\Debug\net5.0\PruebaTecnicaRafaelOspina.Shared.AssemblyInfoInputs.cache
+C:\Users\darkz\source\repos\PruebaTecnicaRafaelOspina\PruebaTecnicaRafaelOspina\Shared\obj\Debug\net5.0\PruebaTecnicaRafaelOspina.Shared.AssemblyInfo.cs
+C:\Users\darkz\source\repos\PruebaTecnicaRafaelOspina\PruebaTecnicaRafaelOspina\Shared\obj\Debug\net5.0\PruebaTecnicaRafaelOspina.Shared.csproj.CoreCompileInputs.cache
+C:\Users\darkz\source\repos\PruebaTecnicaRafaelOspina\PruebaTecnicaRafaelOspina\Shared\obj\Debug\net5.0\PruebaTecnicaRafaelOspina.Shared.dll
+C:\Users\darkz\source\repos\PruebaTecnicaRafaelOspina\PruebaTecnicaRafaelOspina\Shared\obj\Debug\net5.0\ref\PruebaTecnicaRafaelOspina.Shared.dll
+C:\Users\darkz\source\repos\PruebaTecnicaRafaelOspina\PruebaTecnicaRafaelOspina\Shared\obj\Debug\net5.0\PruebaTecnicaRafaelOspina.Shared.pdb
