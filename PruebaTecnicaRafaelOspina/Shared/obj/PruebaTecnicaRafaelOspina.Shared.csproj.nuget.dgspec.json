@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\darkz\\source\\repos\\PruebaTecnicaRafaelOspina\\PruebaTecnicaRafaelOspina\\Shared\\PruebaTecnicaRafaelOspina.Shared.csproj": {}
+    "C:\\Users\\darkz\\source\\repos\\Mainsoft\\PruebaTecnicaRafaelOspina\\PruebaTecnicaRafaelOspina\\Shared\\PruebaTecnicaRafaelOspina.Shared.csproj": {}
   },
   "projects": {
-    "C:\\Users\\darkz\\source\\repos\\PruebaTecnicaRafaelOspina\\PruebaTecnicaRafaelOspina\\Shared\\PruebaTecnicaRafaelOspina.Shared.csproj": {
+    "C:\\Users\\darkz\\source\\repos\\Mainsoft\\PruebaTecnicaRafaelOspina\\PruebaTecnicaRafaelOspina\\Shared\\PruebaTecnicaRafaelOspina.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\darkz\\source\\repos\\PruebaTecnicaRafaelOspina\\PruebaTecnicaRafaelOspina\\Shared\\PruebaTecnicaRafaelOspina.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\darkz\\source\\repos\\Mainsoft\\PruebaTecnicaRafaelOspina\\PruebaTecnicaRafaelOspina\\Shared\\PruebaTecnicaRafaelOspina.Shared.csproj",
         "projectName": "PruebaTecnicaRafaelOspina.Shared",
-        "projectPath": "C:\\Users\\darkz\\source\\repos\\PruebaTecnicaRafaelOspina\\PruebaTecnicaRafaelOspina\\Shared\\PruebaTecnicaRafaelOspina.Shared.csproj",
+        "projectPath": "C:\\Users\\darkz\\source\\repos\\Mainsoft\\PruebaTecnicaRafaelOspina\\PruebaTecnicaRafaelOspina\\Shared\\PruebaTecnicaRafaelOspina.Shared.csproj",
         "packagesPath": "C:\\Users\\darkz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\darkz\\source\\repos\\PruebaTecnicaRafaelOspina\\PruebaTecnicaRafaelOspina\\Shared\\obj\\",
+        "outputPath": "C:\\Users\\darkz\\source\\repos\\Mainsoft\\PruebaTecnicaRafaelOspina\\PruebaTecnicaRafaelOspina\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -28,6 +28,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {},
           "https://nuget.devexpress.com/YJblafdlfxbBeMirLEXoIrA8iAnwwXydEGYbVMC8WrVhhYJzxU/api": {}
         },

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 #nullable disable
 
-namespace PruebaDoubleV.Server.Models
+namespace PruebaTecnicaRafaelOspina.Server.Models
 {
     public partial class Usuario
     {

@@ -7,6 +7,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using PruebaDoubleV.Server.Models;
 using PruebaDoubleV.Shared;
+using PruebaTecnicaRafaelOspina.Server.Models;
 
 namespace PruebaDoubleV.Server.Controllers
 {
@@ -14,9 +15,9 @@ namespace PruebaDoubleV.Server.Controllers
     [ApiController]
     public class UsuariosController : ControllerBase
     {
-        private readonly PruebaDoubleVContext _context;
+        private readonly PruebaContext _context;
 
-        public UsuariosController(PruebaDoubleVContext context)
+        public UsuariosController(PruebaContext context)
         {
             _context = context;
         }

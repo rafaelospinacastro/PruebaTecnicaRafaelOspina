@@ -47,6 +47,7 @@ else
         if (devol.IsSuccessStatusCode)
         {
             loginState.SetLogin(true, usuario.Nombres);
+            NavManager.NavigateTo("");
             //NavManager.NavigateTo("/", forceLoad: true);
             correctPassword = "";
         }
